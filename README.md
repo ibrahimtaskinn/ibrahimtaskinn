@@ -1,4 +1,4 @@
-<img src="https://github.com/itaskinn/itaskinn/blob/main/tumblr_ong4opFOMH1si8vfyo1_500.gif" width="200%" height="300px">
+<img src="https://github.com/itaskinn/itaskinn/blob/main/tumblr_ong4opFOMH1si8vfyo1_500.gif" width="auto" height="500px">
 <h1 align="center">Hi :wave:, I'm Samed HOPA</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 - :telescope: I’m currently working on **42Cursus**
