@@ -1,9 +1,13 @@
 <img src="https://github.com/itaskinn/itaskinn/blob/main/36033.gif" width="auto" height="500px">
 <h1 align="center">Hi :wave:, I'm İbrahim TAŞKIN</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+
 - :telescope: I’m currently working on **42Cursus**
+ 
 - :seedling: I’m currently learning **C**
+
 - :mailbox: How to reach me **taskinnibrahim@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim-taşkin-a80156208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="İbrahimTAŞKIN" height="30" width="40" /></a>
