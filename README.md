@@ -1,4 +1,4 @@
-<img src="https://github.com/itaskinn/itaskinn/blob/main/36033.gif" width=max height="500px">
+<img src="https://github.com/itaskinn/itaskinn/blob/main/36033.gif" width="1000px" height="500px">
 <h1 align="center">Hi :wave:, I'm İbrahim TAŞKIN</h1>
 <h3 align="center">a young software developer eager to learn</h3>
 
