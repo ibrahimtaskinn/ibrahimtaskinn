@@ -4,7 +4,7 @@
 
 - :telescope: I’m currently working on **42Cursus**
  
-- :seedling: I’m currently learning **C**
+- :seedling: I’m currently learning **C** and **Kotlin**
 
 - :mailbox: How to reach me **taskinnibrahim@gmail.com**
 
