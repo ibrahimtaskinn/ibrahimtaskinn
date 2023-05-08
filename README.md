@@ -1,8 +1,8 @@
-<img src="https://github.com/itaskinn/itaskinn/blob/main/36033.gif" width="auto" height="500px">
+
 <h1 align="center">Hi :wave:, I'm İbrahim TAŞKIN</h1>
 <h3 align="center">a young software developer eager to learn</h3>
 
-- :telescope: I’m currently working on **42Cursus**
+- :telescope: I’m currently working on **Turkcell Geleceği Yazanlar Kotlin Bootcamp Participant**
  
 - :seedling: I’m currently learning **C** and **Kotlin**
 
